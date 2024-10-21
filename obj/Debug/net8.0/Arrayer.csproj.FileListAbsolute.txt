@@ -12,3 +12,4 @@ C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\Arrayer\obj\Deb
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\Arrayer\obj\Debug\net8.0\Arrayer.pdb
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\Arrayer\obj\Debug\net8.0\Arrayer.genruntimeconfig.cache
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\Arrayer\obj\Debug\net8.0\ref\Arrayer.dll
+C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\Arrayer\obj\Debug\net8.0\Arrayer.sourcelink.json
