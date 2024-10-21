@@ -1,7 +1,10 @@
 ﻿
 
 using System.Formats.Asn1;
-
+// den går att göra bättre som till exempel att efter att alla gameboard[] inte är '-',
+// den slutar kolla om gameboard[] är '-' för att sätta x eller o 
+// kan åckså göra så att man får sätta ut 3 x eller o, och sen när man sätter ut en ny x eller o
+// så försviner den äldsta x eller o.
 uppgift4();
 static void uppgift4(){
     int går_det = 0;
@@ -107,7 +110,11 @@ static void uppgift4(){
         sakta(mes3, tid);
         kolumn = int.Parse(Console.ReadLine());
 
-        if(gameboard[rad-1, kolumn-1] == '-'){
+        if(rad-1 >= 3 || kolumn- 1 >= 3){
+            sakta(mes5,tid);
+            Console.WriteLine("");
+        }
+        else if(gameboard[rad-1, kolumn-1] == '-'){
             gameboard[rad -1, kolumn -1] = 'o';
             går_det = 1;
         }
