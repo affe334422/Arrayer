@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2db1a2e12f0cd2b5a6295e357f8f2fdc27dfe295")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01b181482562f95fe719b55ba16f017ceacdceea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
